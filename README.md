@@ -4,7 +4,7 @@ Project LNU WEB
 A site for game 2D graphics, which selects graphics by style, color scheme, and the like.
 
 Decomposition of tasks:
-1. Creating a project +
+1. Creating a project DONE
 1.1 Transition to PostgreSQL
 2. Main page
 3. Registration
