@@ -1,0 +1,33 @@
+body {
+background: #18262b;
+color: #C4E8F5;
+}
+
+.LeftMenuLine {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: #364C54;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.LeftMenuLine a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #87F3EC;
+    display: block;
+}
+
+.LeftMenuLine a:hover {
+    color:#B187F3;
+}
+
+.main {
+    margin-left: 160px;
+    padding: 0px 10px;
+}

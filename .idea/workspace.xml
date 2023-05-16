@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -30,12 +31,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Learn/WEB/gameGraphicsPlace/main"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Learn\WEB\gameGraphicsPlace\main" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Learn\WEB\gameGraphicsPlace\static\main\css" />
+      <recent name="C:\Learn\WEB\gameGraphicsPlace\static\main" />
+      <recent name="C:\Learn\WEB\gameGraphicsPlace\templates\main" />
       <recent name="C:\Learn\WEB\gameGraphicsPlace" />
       <recent name="C:\Learn\WEB\gameGraphicsPlace\1" />
     </key>
