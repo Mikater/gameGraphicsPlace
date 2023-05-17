@@ -10,8 +10,8 @@ Decomposition of tasks:
 1. Creating a project *DONE*
 2. Transition to PostgreSQL *DONE*
 3. Main page *10% DONE*
-4. Registration
-5. Login
+4. Registration *DONE*
+5. Login *DONE*
 6. Google authorization
 7. Hosting
 8. Profile
