@@ -12,7 +12,7 @@ Decomposition of tasks:
 3. Main page *10% DONE*
 4. Registration *DONE*
 5. Login *DONE*
-6. Google authorization
+6. Google authorization *DONE 90%* (working but need debug html)
 7. Hosting
 8. Profile
 9. Adding graphics
@@ -24,3 +24,5 @@ Decomposition of tasks:
 15. Graphics conversion
 16. Analytics of viewing and downloading graphics
 17. News page
+
+Creating with https://dev.to/mdrhmn/django-google-authentication-using-django-allauth-18f8
