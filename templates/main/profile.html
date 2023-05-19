@@ -6,7 +6,9 @@
 {% block content %}
 <div class="head-profile">
   <img src="{% static 'main/img/Avatar.png' %}" alt="" class="Avatar">
-  <h1 class="">Профіль</h1>
-  
+  <div class="user-info">
+    <h1 class="username">{{ user.username }}</h1>
+    <p class="random-phrase">Фраза дня: Добре що ми то ми а вони то вони!</p>
+  </div>
 </div>
 {% endblock %}

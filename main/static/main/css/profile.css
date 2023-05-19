@@ -1,0 +1,23 @@
+.head-profile {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.Avatar {
+border-radius: 50%;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px; /* Налаштуйте відступ, який підходить для вас */
+}
+
+.username {
+  text-align: left;
+}
+
+.random-phrase {
+  margin-top: 5px; /* Налаштуйте відступ, який підходить для вас */
+}
