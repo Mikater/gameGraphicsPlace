@@ -9,3 +9,7 @@ def main_page(request):
 
 def about_us(request):
     return render(request, template_name='main/about.html')
+
+
+def profile(request):
+    return render(request, template_name='main/profile.html')
