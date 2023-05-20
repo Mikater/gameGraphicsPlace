@@ -12,17 +12,18 @@ Decomposition of tasks:
 3. Main page *10% DONE*
 4. Registration *DONE*
 5. Login *DONE*
-6. Google authorization *DONE 90%* (working but need debug html)
-7. Hosting
-8. Profile
-9. Adding graphics
-10 Watermark
-11. Ribbon graphics
-12. Graphics page
-13. Ability to download
-14. Selection of graphics
-15. Graphics conversion
-16. Analytics of viewing and downloading graphics
-17. News page
+6. Google authorization *DONE*
+7. Hosting *DONE*
+8. Static remake *need*
+9. Profile *Frontend DONE* 
+10. Adding graphics
+11. Watermark
+12. Ribbon graphics
+13. Graphics page
+14. Ability to download
+15. Selection of graphics
+16. Graphics conversion
+17. Analytics of viewing and downloading graphics
+18. News page
 
 Creating with https://dev.to/mdrhmn/django-google-authentication-using-django-allauth-18f8
