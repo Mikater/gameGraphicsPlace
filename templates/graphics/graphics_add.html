@@ -1,10 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'main/layout.html' %}
 
-</body>
-</html>
+{% block title %}Graphics-Add{% endblock %}
+
+{% block content %}
+<div class="features">
+    <h1 class="AboutAssHead">Graphic create</h1>
+    <form method="post">
+        <input type="text" placeholder="Назва паку" class="form-control"><br>
+        <input type="text" placeholder="Color1" class="form-control"><br>
+        <input type="text" placeholder="Color2" class="form-control"><br>
+        <button class="btn btn-success" type="submit">Згенерувати</button>
+    </form>
+</div>
+{% endblock %}
